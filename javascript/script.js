@@ -1,5 +1,5 @@
 var n = document.getElementById("name");
-var roll = document.getElementById("rno");
+var roll = document.getElementById("rollno");
 var date = document.getElementById("date");
 
 n.innerHTML = "Ankur Gupta";
